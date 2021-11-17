@@ -1,0 +1,29 @@
+
+.journal-desc{
+    /* background-color: #217614; */
+}
+.smart-gls{
+    display: flex;
+    background-color: #217614; 
+}
+.specific-goals{
+padding: 20px;
+}
+.sp-desc{
+background-color: #217614;  
+padding: 20px;
+display: flex;
+padding: 20px;
+}
+.written{
+    text-align: center;
+}
+.sp-head{
+    text-align: center;
+}
+.header{
+    color: teal;
+    text-transform: underline;
+    font-size: x-large;
+}
+
